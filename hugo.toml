@@ -1,16 +1,43 @@
 baseURL = "https://x4d69636861656c.github.io/"
-title = "x4d69636861656c Hacking'"
+title = "x4d69636861656c Hacking"
 theme = "hugo-trainsh"
 languageCode = "en-us"
 
-[params]
-mainSections = ["posts"]
-defaultColorScheme = "retro"
-
-# Social links
-github = "x4d69636861656c"
-x = "@0xCYB3RM0NK3Y"
-email = "x4d69636861656c@gmail.com"
+# URL normalization
+disablePathToLower = false # ensure all paths are lowercased
+removePathAccents = true   # normalize diacritics in paths
+preserveTaxonomyNames = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[params]
+  mainSections = ["posts"]
+  # Default visual style for first-time visitors: "retro", "light", or "dark".
+  # Omit or leave empty to default to "retro".
+  defaultColorScheme = "dark"
+
+  [params.social]
+    # Demo links: replace with your own profiles.
+    github = "https://github.com/x4d69636861656c"
+    x = "https://x.com/@0xCYB3RM0NK3Y"
+    linkedin = "https://www.linkedin.com/in/medina-franco-michael/"
+    # `email` is used as a contact mailto (say hello).
+    email = "x4d69636861656c@gmail.com"
+
+  [params.home]
+    [params.home.recent]
+      limit = 5
+
+[markup]
+  [markup.goldmark.parser.attribute]
+    block = true
+
+  [markup.highlight]
+    # Keep settings aligned with the theme's `render-codeblock.html` hook.
+    lineNos = false
+    lineNumbersInTable = false
+    anchorLineNos = false
+    codeFences = true
+    lineNoStart = 1
+    noClasses = true
