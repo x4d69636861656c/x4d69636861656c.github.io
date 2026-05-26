@@ -2,9 +2,8 @@ name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-  workflow_dispatch:   # Allows manual trigger from GitHub
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -13,7 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
