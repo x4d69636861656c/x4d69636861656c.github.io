@@ -1,13 +1,14 @@
-baseURL = 'https://x4d69636861656c.github.io/'
-languageCode = 'en-us'
-title = 'x4d69636861656c Hacking'
+baseURL = "https://x4d69636861656c.github.io/"
+title = "x4d69636861656c Hacking'"
+theme = "hugo-trainsh"
+languageCode = "en-us"
 
 [params]
 mainSections = ["posts"]
-defaultColorScheme = "dark"
+defaultColorScheme = "retro"
 
 # Social links
-github = "x4d69636861656c
+github = "x4d69636861656c"
 x = "@0xCYB3RM0NK3Y"
 email = "x4d69636861656c@gmail.com"
 
