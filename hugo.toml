@@ -1,0 +1,15 @@
+baseURL = 'https://x4d69636861656c.github.io/'
+languageCode = 'en-us'
+title = 'x4d69636861656c Hacking'
+
+[params]
+mainSections = ["posts"]
+defaultColorScheme = "dark"
+
+# Social links
+github = "x4d69636861656c
+x = "@0xCYB3RM0NK3Y"
+email = "x4d69636861656c@gmail.com"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
