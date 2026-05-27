@@ -1,0 +1,13 @@
+[{
+    "title": "Hacking Principles 2026",
+    "summary": " Principles Ship small, ship often. Prefer boring tech for critical paths. Tests document intent; keep them readable. Make rollback easy before adding features. Notes These principles are intentionally concise so they can be memorized and debated.\n",
+    "date": "2026-05-27",
+    "dateShort": "2026-05-27",
+    "dateISO": "2026-05-27",
+    "year": "2026",
+    "author": null,
+    "permalink": "/posts/hacking-principles/",
+    "tags": ["principles","hacking","technology","information-security"],
+    "categories": [],
+    "content": " Principles Ship small, ship often. Prefer boring tech for critical paths. Tests document intent; keep them readable. Make rollback easy before adding features. Notes These principles are intentionally concise so they can be memorized and debated.\n"
+  }]
