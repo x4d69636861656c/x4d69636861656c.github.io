@@ -14,11 +14,11 @@
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Hacking Principles 2026</title>
+				<title>0xCYB3RM0NK3Y Online – Entering the grid of 0s and 1s</title>
 				<link>http://localhost:1313/posts/hacking-principles/</link>
 				<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/hacking-principles/</guid>
-				<description>&lt;h2 id=&#34;principles&#34;&gt;&#xA;  Principles&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ship small, ship often.&lt;/li&gt;&#xA;&lt;li&gt;Prefer boring tech for critical paths.&lt;/li&gt;&#xA;&lt;li&gt;Tests document intent; keep them readable.&lt;/li&gt;&#xA;&lt;li&gt;Make rollback easy before adding features.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;&#xA;  Notes&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;These principles are intentionally concise so they can be memorized and debated.&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;mainframe-acquired&#34;&gt;&#xA;  Mainframe acquired.&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve spent years ghosting through networks and life, breaking boxes and bones, collecting TTPs, and watching the digital landscape evolve to the point of AI becoming an existential threat to humanity. Now it&amp;rsquo;s time to drop the payload in public. Welcome to my corner grid.&lt;/p&gt;&#xA;&lt;p&gt;As a child my diseased father earned a living as a salesman. One day he brought home a pentium II. The computer was stored in room outside the house. I remember an unvarnished industrial room featuring raw cinder blocks stripped of plaster or paint. A cramped office filled with boxes with papers. This room became my favorite place to dwell.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

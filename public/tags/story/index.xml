@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Information Security on x4d69636861656c Hacking</title>
-		<link>http://localhost:1313/tags/information-security/</link>
-		<description>Recent content in Information Security on x4d69636861656c Hacking</description>
+		<title>Story on x4d69636861656c Hacking</title>
+		<link>http://localhost:1313/tags/story/</link>
+		<description>Recent content in Story on x4d69636861656c Hacking</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/information-security/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/story/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>0xCYB3RM0NK3Y Online – Entering the grid of 0s and 1s</title>
 				<link>http://localhost:1313/posts/hacking-principles/</link>
